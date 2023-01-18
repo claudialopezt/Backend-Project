@@ -1,0 +1,44 @@
+
+.jumbotron.text-center {
+    background-color: gray;
+    color: white;
+}
+.jumbotron.text-center h1 {
+    font-weight: 400;
+}
+
+.float-left.rounded-circle.img-fluid.img-thumbnail {
+    padding-top: 0px;
+    background-color: gray;
+    border-color: gray;
+    border-width: 5px;
+
+}
+
+.col-xs-12 {
+    border-color: black;
+}
+
+.table td {
+    width: 10px;
+}
+
+.progress {
+    width: 150px;
+}
+
+table.table {
+    border-color: white;
+}
+
+.jumbotron.text-right {
+    background-color: white;
+    padding: 0px;
+    padding-right: 20px;
+}
+
+.error {
+    color: red;
+    font-size: small;
+}
+
