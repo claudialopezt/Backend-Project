@@ -1,7 +1,7 @@
 <?php
 $servername = "mysql-natalia.alwaysdata.net";
 $username = "natalia";
-$password = "Holaquetal123";
+$password = "?";
 $dbname = "natalia_cv";
 
 // Create connection
